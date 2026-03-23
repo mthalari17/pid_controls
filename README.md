@@ -473,17 +473,3 @@ In cGMP environments, PID tuning is a **validated activity**:
 
 ---
 
-## Suggested 12-Week Study Plan
-
-| Week  | Topic                                       | Deliverable                                                 |
-| ----- | ------------------------------------------- | ----------------------------------------------------------- |
-| 1–2   | Phase 1–2: Fundamentals, P/I/D individually | Spreadsheet PID simulation                                  |
-| 3–4   | Phase 3: Manual tuning, Z-N, Lambda         | Tune 3 simulated loops in CODESYS                           |
-| 5–6   | Phase 4: Real-world implementation details  | PlantPax PID configuration document                         |
-| 7–8   | Phase 5: Cascade, feedforward, split-range  | Cascade control in CODESYS + Factory I/O                    |
-| 9–10  | Phase 6: Gain scheduling, advanced concepts | Technical paper on when PID isn't enough                    |
-| 11–12 | Phase 7: Pharma-specific, loop performance  | Mock commissioning report for a bioreactor temperature loop |
-
----
-
-*This roadmap is designed to take you from conceptual understanding through hands-on implementation to professional-level expertise in PID control, with a pharma/biotech lens throughout.*
